@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUuWn2/NhZQUPOmZrKUJgc4KeZP2kFv3IWBimyKFkOgL0frjpkG4gfNfNqhq9AZMyAfOHYKm9Y95E4Vezcj5jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\travis.vaughn\\Documents\\Git\\xero-gh-actions-poc\\xero-gh-actions-poc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\travis.vaughn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
